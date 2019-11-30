@@ -1,0 +1,23 @@
+{
+"product":[
+{"id":1,"nama":"Myotis lucifugus","kategori":"Khaki"},
+{"id":2,"nama":"Platalea leucordia","kategori":"Mauv"},
+{"id":3,"nama":"Cynomys ludovicianus","kategori":"Green"},
+{"id":4,"nama":"Phalaropus fulicarius","kategori":"Violet"},
+{"id":5,"nama":"Spermophilus armatus","kategori":"Aquamarine"},
+{"id":6,"nama":"Tamiasciurus hudsonicus","kategori":"Orange"},
+{"id":7,"nama":"Gopherus agassizii","kategori":"Puce"},
+{"id":8,"nama":"Hippotragus equinus","kategori":"Fuscia"},
+{"id":9,"nama":"Aquila chrysaetos","kategori":"Violet"},
+{"id":10,"nama":"Potos flavus","kategori":"Purple"},
+{"id":11,"nama":"Ovis ammon","kategori":"Maroon"},
+{"id":12,"nama":"Ciconia ciconia","kategori":"Violet"},
+{"id":13,"nama":"Ara chloroptera","kategori":"Mauv"},
+{"id":14,"nama":"Bassariscus astutus","kategori":"Maroon"},
+{"id":15,"nama":"Marmota flaviventris","kategori":"Khaki"},
+{"id":16,"nama":"Felis pardalis","kategori":"Teal"},
+{"id":17,"nama":"Ctenophorus ornatus","kategori":"Purple"},
+{"id":18,"nama":"Hymenolaimus malacorhynchus","kategori":"Green"},
+{"id":19,"nama":"Lutra canadensis","kategori":"Red"},
+{"id":20,"nama":"Sula dactylatra","kategori":"Red"}
+]}
